@@ -15,7 +15,23 @@ switch(num){
 
 function identifySeason(num){
   switch(true){
-   
+   case 1:
+    case 2: 
+    break
+    case 3:return "Spring"
+    case 4:
+    case 5: 
+    break
+    case 6:  return "Summer"
+    case 7: 
+    case 8: 
+    break
+    case 9:return "Autumn
+    case 10:
+    case 11: 
+      case 12: return "Winter
+    break
+    default : "Return valid month."
   }
 }
 
